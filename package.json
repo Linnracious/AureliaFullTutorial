@@ -1,0 +1,23 @@
+{
+  "name": "contactmanager",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linnracious/AureliaFullTutorial.git"
+  },
+  "author": "Henry Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linnracious/AureliaFullTutorial/issues"
+  },
+  "homepage": "https://github.com/Linnracious/AureliaFullTutorial#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^2.2.4"
+  }
+}
